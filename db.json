@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "facundo",
+      "password": "facundo123"
+    },
+    {
+      "email": "fcristaldo@altimetrik.com",
+      "password": "$2a$10$9Bpsn3C.Z2aH.FEexrTkHuxa9jQAwRfbDNyA5.vHZizPuA8wYipwS",
+      "id": 2
+    }
+  ]
+}
